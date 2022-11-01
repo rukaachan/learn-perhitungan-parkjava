@@ -40,5 +40,6 @@ public class parkir {
 
     System.out.println("Total biaya adalah : "+ totalbiaya);
     System.out.println("Silahkan melakukan pembayaran");
+    System.out.println("Terimakasih");
     }
 }
